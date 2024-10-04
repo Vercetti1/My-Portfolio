@@ -323,7 +323,7 @@ li a:hover{
 @media screen and (max-width: 950px){
 
     .up-button{
-        display: none;
+        display: hidden;
     }
     .navMobile{
         display: flex;
@@ -433,9 +433,6 @@ li a:hover{
     }
     .contactForm input{
         padding: 0.4rem 0rem;
-    }
-    .up-button{
-        display: none;
     }
 }
 
